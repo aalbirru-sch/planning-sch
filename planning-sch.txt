@@ -2,4 +2,6 @@ SCH
 - JS DASAR
 - JS LANJUT
 - GITHUB
-- JS LANJUT, Bootstrap
+- Database
+- PHP
+- Laravel
